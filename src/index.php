@@ -17,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
 <body>
 
 <form action="search.php" method="post">
-search <input type="text" name="search"><br>
+search: <input type="text" name="search"><br>
 
 <input type="submit">Search</input>
 </form>

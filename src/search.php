@@ -6,5 +6,7 @@
 <?php
     echo $_GET['search'];
 ?>
+
+<a href="index.php"> Return to home page</a>
 </body>
 </html>
