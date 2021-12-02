@@ -27,3 +27,7 @@ search: <input type="text" name="search" required><br>
 
 <script language="Javascript">alert("Hello");</script>
 <script>window.location.href = "index.php";</script>
+
+
+
+
